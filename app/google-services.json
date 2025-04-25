@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "767274630995",
+    "project_id": "simple-fitness-app-dd",
+    "storage_bucket": "simple-fitness-app-dd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767274630995:android:86a52d956935f634d5aba6",
+        "android_client_info": {
+          "package_name": "com.dd.sfa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9cAMpYPuxyACJm_htTUe-xlPcDWm5Lx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
